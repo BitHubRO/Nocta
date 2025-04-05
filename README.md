@@ -36,8 +36,8 @@ Sleep better. Wake better. Live better.
 
 ## ⚙️ Technologies Used
 
-- **Hardware**: ESP32, DHT22 / BME280, LDR, sound sensor, relays or smart plugs, motor/servo for blinds
-- **Software**: C++ (Arduino framework), MQTT/Wi-Fi communication, optional mobile app integration
+- **Hardware**: ESP32, DHT22, BH1750, sound sensor, motor/servo for blinds
+- **Software**: C++ (Arduino framework), MQTT/Wi-Fi communication, web interface
 - **Optional Integrations**: Sleep tracking devices (e.g., Fitbit, Oura, etc.), Home Assistant, Apple Health
 
 ---
